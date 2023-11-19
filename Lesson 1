@@ -17,8 +17,10 @@
             <li>The Shack</li>
             <li>Black Panther</li>
           </ol>
+          
+          <a href="https://www.imdb.com/" target ="_blank"> Click here to go to IMDB and find yours!<br><br></a>
 
-          <a href="https://www.imdb.com/"> Click here to go to IMDB</a>
+          <img src="https://cavehometheater.com/wp-content/uploads/2019/12/AdobeStock_289927915-scaled-e1577725809538.jpeg" alt="War Room" width = "300" height = "300">
       </p>
   </body>
 </html>
